@@ -382,11 +382,11 @@ async def shut_down():
         task.cancel()
 
 
-#try:
-#    asyncio.run(main())
-#except:
-#    print('connection gracefully lost')
+try:
+    asyncio.run(main())
+except:
+    print('connection gracefully lost')
 
-loop = asyncio.get_event_loop()
-loop.run_until_complete(main())
-loop.close()
+#loop = asyncio.get_event_loop()
+#loop.run_until_complete(main())
+#loop.close()

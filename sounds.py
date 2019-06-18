@@ -1,7 +1,8 @@
-
+#'sounds.py'
+import os
 from playsound import playsound as ps
 
-sound = '/Users/charlesbolton/Desktop/594_Networking/networking_irc/'
+sound = os.getcwd()+'/tones/'
 
 def login():
    
