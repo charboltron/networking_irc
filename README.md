@@ -1,6 +1,6 @@
 # Chat Box 
 
-![Image of Chat Box Demo](/img/chat_irc_demo.png)
+![Image of Chat Box Demo](/img/chat_irc_demo.jpg)
 
 ### About
 
