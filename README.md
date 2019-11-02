@@ -4,7 +4,7 @@
 
 ### About
 
-Created in May/June 2019 with Evan DePosit. An experiment in internetworking protocols, the 'Chat Box' is an asynchronous client/server chat application which supports multiple clients, chat room creation, deletion, joining, switching, leaving, broadcasting, as well as other functions relating to connections and disconnections. See the RFC.pdf (Request For Comments) for much more detailed information on the protocol and how the application works. All chimes and sounds within the application created by Charles Bolton in Python. 
+Created in May/June 2019 with Evan DePosit https://github.com/ejdeposit/. An experiment in internetworking protocols, the 'Chat Box' is an asynchronous client/server chat application which supports multiple clients, chat room creation, deletion, joining, switching, leaving, broadcasting, as well as other functions relating to connections and disconnections. See the RFC.pdf (Request For Comments) for much more detailed information on the protocol and how the application works. All chimes and sounds within the application created by Charles Bolton in Python. 
 
 ### Running 
 
